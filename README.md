@@ -1,12 +1,12 @@
 # US_Police_Shootings
-This project is done by exploratory data analysis using R programming.
-R Studio is used in this project to develop the visualizations.
+This project is done by exploratory data analysis using Python programming.
+Jupyter is used in this project to develop the visualizations.
 Various libraries are made to develop the project.
 
 
                                                                     Introduction
-This simple project is a US Police Shootings – EDA in R. 
-This is a data visualization project developed in R programming. 
+This simple project is a US Police Shootings – EDA. 
+This is a data visualization project developed in Python programming. 
 Police shootings have become a prominent issue in the United States in recent years, with numerous cases drawing national attention and sparking protests. 
 The deaths of individuals such as George Floyd, Breonna Taylor, and Daunte Wright have raised concerns about the use of force by law enforcement and its disproportionate impact on communities of color. 
 In order to better understand the patterns and factors contributing to police shootings, exploratory data analysis (EDA) can be a valuable tool.
